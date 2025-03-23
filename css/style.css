@@ -90,7 +90,7 @@ body.home {
 
 /* Resume Page Styles */
 body.resume {
-    background: linear-gradient(135deg, #1c92d2, #f2fcfe);
+    background: linear-gradient(135deg, #94c2d9, #022228);
     color: #333;
 }
 
@@ -205,6 +205,13 @@ h3 {
 /* Footer Styles */
 .footer {
     background-color: rgba(0, 0, 0, 0.5);
+    padding: 1rem 0;
+    text-align: center;
+    color: white;
+}
+
+.resumeFooter {
+    background-color: #06364f;
     padding: 1rem 0;
     text-align: center;
     color: white;
